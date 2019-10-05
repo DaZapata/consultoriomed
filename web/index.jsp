@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Consultorio M&eacute;dico</title>
+    <title>Consultorio M&eacute;dico 01</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -59,8 +59,8 @@
         <nav class="navbar navbar-expand-md  navbar-light bg-light">
             <div class="container">
 
-                <%@include file="menu.jsp" %>
-                
+                <% @include file="menu.jsp" %>
+
             </div>
         </nav>
     </header>
