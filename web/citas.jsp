@@ -73,7 +73,7 @@
 
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="mb-4 align= text-center">SOMOS SU ALIADO EN LOS MOMENTOS MAS DIFICILES</h2>
+                            <h2 class="mb-4 align= text-center">SOMOS SU ALIADO MAS IMPORANTE EN LOS MOMENTOS MAS DIFICILES</h2>
                             <br>
                             <p class="mb-5"><img src="images/medicos.jpg" alt="Image placeholder" class="img-fluid"></p>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum minima eveniet recusandae suscipit eum laboriosam fugit amet deleniti iste et. Ad dolores, necessitatibus non saepe tenetur impedit commodi quibusdam natus repellat,
